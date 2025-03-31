@@ -9,6 +9,10 @@ A simple command-line slot machine game written in Python.
 - Randomly generated slot machine spins.
 - Win based on matching symbols and payouts.
 - Continue playing until you choose to quit or run out of balance.
+- If the total bet exceeds the balance, players have the option to deposit more money.
+- Additional winnings are awarded based on the number of winning lines.
+- Improved user prompts for better clarity.
+- Fixed a bug in the quit condition to ensure proper input handling.
 
 ## 🛠️ How to Run
 
@@ -43,3 +47,4 @@ This project was inspired by [Tech With Tim](https://www.youtube.com/@TechWithTi
 This project is for educational and personal use. Modify and improve as you like!
 
 Happy Spinning! 🎰
+
